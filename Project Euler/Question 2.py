@@ -29,5 +29,5 @@ while i < 4000000 and j <4000000:
     else:
         j = k
         
-print('Fibonacci Number is', k)
-print('Sum of Even Numbers is', sum)
+print('Fibonacci Number :', k)
+print('Sum of Even Numbers :', sum)
